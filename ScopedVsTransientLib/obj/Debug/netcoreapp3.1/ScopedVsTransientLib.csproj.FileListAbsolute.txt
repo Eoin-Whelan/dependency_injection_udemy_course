@@ -1,0 +1,9 @@
+C:\Users\eoinf\OneDrive\Desktop\C# Project Work\Repos\DependencyInjectionCourse\ScopedVsTransientLib\bin\Debug\netcoreapp3.1\ScopedVsTransientLib.deps.json
+C:\Users\eoinf\OneDrive\Desktop\C# Project Work\Repos\DependencyInjectionCourse\ScopedVsTransientLib\bin\Debug\netcoreapp3.1\ScopedVsTransientLib.dll
+C:\Users\eoinf\OneDrive\Desktop\C# Project Work\Repos\DependencyInjectionCourse\ScopedVsTransientLib\bin\Debug\netcoreapp3.1\ScopedVsTransientLib.pdb
+C:\Users\eoinf\OneDrive\Desktop\C# Project Work\Repos\DependencyInjectionCourse\ScopedVsTransientLib\obj\Debug\netcoreapp3.1\ScopedVsTransientLib.csprojAssemblyReference.cache
+C:\Users\eoinf\OneDrive\Desktop\C# Project Work\Repos\DependencyInjectionCourse\ScopedVsTransientLib\obj\Debug\netcoreapp3.1\ScopedVsTransientLib.AssemblyInfoInputs.cache
+C:\Users\eoinf\OneDrive\Desktop\C# Project Work\Repos\DependencyInjectionCourse\ScopedVsTransientLib\obj\Debug\netcoreapp3.1\ScopedVsTransientLib.AssemblyInfo.cs
+C:\Users\eoinf\OneDrive\Desktop\C# Project Work\Repos\DependencyInjectionCourse\ScopedVsTransientLib\obj\Debug\netcoreapp3.1\ScopedVsTransientLib.csproj.CoreCompileInputs.cache
+C:\Users\eoinf\OneDrive\Desktop\C# Project Work\Repos\DependencyInjectionCourse\ScopedVsTransientLib\obj\Debug\netcoreapp3.1\ScopedVsTransientLib.dll
+C:\Users\eoinf\OneDrive\Desktop\C# Project Work\Repos\DependencyInjectionCourse\ScopedVsTransientLib\obj\Debug\netcoreapp3.1\ScopedVsTransientLib.pdb

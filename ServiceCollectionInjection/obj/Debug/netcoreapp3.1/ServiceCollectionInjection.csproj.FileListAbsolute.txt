@@ -1,0 +1,8 @@
+C:\Users\eoinf\OneDrive\Desktop\C# Project Work\Repos\DependencyInjectionCourse\ServiceCollectionInjection\bin\Debug\netcoreapp3.1\ServiceCollectionInjection.deps.json
+C:\Users\eoinf\OneDrive\Desktop\C# Project Work\Repos\DependencyInjectionCourse\ServiceCollectionInjection\bin\Debug\netcoreapp3.1\ServiceCollectionInjection.dll
+C:\Users\eoinf\OneDrive\Desktop\C# Project Work\Repos\DependencyInjectionCourse\ServiceCollectionInjection\bin\Debug\netcoreapp3.1\ServiceCollectionInjection.pdb
+C:\Users\eoinf\OneDrive\Desktop\C# Project Work\Repos\DependencyInjectionCourse\ServiceCollectionInjection\obj\Debug\netcoreapp3.1\ServiceCollectionInjection.AssemblyInfoInputs.cache
+C:\Users\eoinf\OneDrive\Desktop\C# Project Work\Repos\DependencyInjectionCourse\ServiceCollectionInjection\obj\Debug\netcoreapp3.1\ServiceCollectionInjection.AssemblyInfo.cs
+C:\Users\eoinf\OneDrive\Desktop\C# Project Work\Repos\DependencyInjectionCourse\ServiceCollectionInjection\obj\Debug\netcoreapp3.1\ServiceCollectionInjection.csproj.CoreCompileInputs.cache
+C:\Users\eoinf\OneDrive\Desktop\C# Project Work\Repos\DependencyInjectionCourse\ServiceCollectionInjection\obj\Debug\netcoreapp3.1\ServiceCollectionInjection.dll
+C:\Users\eoinf\OneDrive\Desktop\C# Project Work\Repos\DependencyInjectionCourse\ServiceCollectionInjection\obj\Debug\netcoreapp3.1\ServiceCollectionInjection.pdb

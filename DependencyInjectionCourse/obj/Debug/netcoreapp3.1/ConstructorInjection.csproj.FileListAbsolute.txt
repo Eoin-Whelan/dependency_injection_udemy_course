@@ -1,0 +1,13 @@
+C:\Users\eoinf\OneDrive\Desktop\C# Project Work\Repos\DependencyInjectionCourse\DependencyInjectionCourse\bin\Debug\netcoreapp3.1\ConstructorInjection.exe
+C:\Users\eoinf\OneDrive\Desktop\C# Project Work\Repos\DependencyInjectionCourse\DependencyInjectionCourse\bin\Debug\netcoreapp3.1\ConstructorInjection.deps.json
+C:\Users\eoinf\OneDrive\Desktop\C# Project Work\Repos\DependencyInjectionCourse\DependencyInjectionCourse\bin\Debug\netcoreapp3.1\ConstructorInjection.runtimeconfig.json
+C:\Users\eoinf\OneDrive\Desktop\C# Project Work\Repos\DependencyInjectionCourse\DependencyInjectionCourse\bin\Debug\netcoreapp3.1\ConstructorInjection.runtimeconfig.dev.json
+C:\Users\eoinf\OneDrive\Desktop\C# Project Work\Repos\DependencyInjectionCourse\DependencyInjectionCourse\bin\Debug\netcoreapp3.1\ConstructorInjection.dll
+C:\Users\eoinf\OneDrive\Desktop\C# Project Work\Repos\DependencyInjectionCourse\DependencyInjectionCourse\bin\Debug\netcoreapp3.1\ConstructorInjection.pdb
+C:\Users\eoinf\OneDrive\Desktop\C# Project Work\Repos\DependencyInjectionCourse\DependencyInjectionCourse\obj\Debug\netcoreapp3.1\ConstructorInjection.AssemblyInfoInputs.cache
+C:\Users\eoinf\OneDrive\Desktop\C# Project Work\Repos\DependencyInjectionCourse\DependencyInjectionCourse\obj\Debug\netcoreapp3.1\ConstructorInjection.AssemblyInfo.cs
+C:\Users\eoinf\OneDrive\Desktop\C# Project Work\Repos\DependencyInjectionCourse\DependencyInjectionCourse\obj\Debug\netcoreapp3.1\ConstructorInjection.csproj.CoreCompileInputs.cache
+C:\Users\eoinf\OneDrive\Desktop\C# Project Work\Repos\DependencyInjectionCourse\DependencyInjectionCourse\obj\Debug\netcoreapp3.1\ConstructorInjection.dll
+C:\Users\eoinf\OneDrive\Desktop\C# Project Work\Repos\DependencyInjectionCourse\DependencyInjectionCourse\obj\Debug\netcoreapp3.1\ConstructorInjection.pdb
+C:\Users\eoinf\OneDrive\Desktop\C# Project Work\Repos\DependencyInjectionCourse\DependencyInjectionCourse\obj\Debug\netcoreapp3.1\ConstructorInjection.genruntimeconfig.cache
+C:\Users\eoinf\OneDrive\Desktop\C# Project Work\Repos\DependencyInjectionCourse\DependencyInjectionCourse\obj\Debug\netcoreapp3.1\ConstructorInjection.csprojAssemblyReference.cache

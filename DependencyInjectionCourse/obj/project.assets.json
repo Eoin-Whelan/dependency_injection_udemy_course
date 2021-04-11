@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eoinf\\OneDrive\\Desktop\\C# Project Work\\Repos\\DependencyInjectionCourse\\DependencyInjectionCourse\\DependencyInjectionCourse.csproj",
-      "projectName": "DependencyInjectionCourse",
-      "projectPath": "C:\\Users\\eoinf\\OneDrive\\Desktop\\C# Project Work\\Repos\\DependencyInjectionCourse\\DependencyInjectionCourse\\DependencyInjectionCourse.csproj",
+      "projectUniqueName": "C:\\Users\\eoinf\\OneDrive\\Desktop\\C# Project Work\\Repos\\DependencyInjectionCourse\\DependencyInjectionCourse\\ConstructorInjection.csproj",
+      "projectName": "ConstructorInjection",
+      "projectPath": "C:\\Users\\eoinf\\OneDrive\\Desktop\\C# Project Work\\Repos\\DependencyInjectionCourse\\DependencyInjectionCourse\\ConstructorInjection.csproj",
       "packagesPath": "C:\\Users\\eoinf\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\eoinf\\OneDrive\\Desktop\\C# Project Work\\Repos\\DependencyInjectionCourse\\DependencyInjectionCourse\\obj\\",
       "projectStyle": "PackageReference",

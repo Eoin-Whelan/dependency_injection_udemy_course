@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FFVwXwqpKOJV0vvpydSRroOaRdqupRucWYT+FwFV1ZSyHkbk+h2ZI+ShqsCT4I7VmSvewLSH1GtRHd21mC5qtw==",
+  "dgSpecHash": "x1dhc8ZvEwZawBEIryGavGQnsYX5Ycc04zLWrTQnuSKe4Ktzp3qQjYqcqFLRd2zlZxeBBUdyE3CV51X6R73aag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eoinf\\OneDrive\\Desktop\\C# Project Work\\Repos\\DependencyInjectionCourse\\DependencyInjectionCourse\\DependencyInjectionCourse.csproj",
+  "projectFilePath": "C:\\Users\\eoinf\\OneDrive\\Desktop\\C# Project Work\\Repos\\DependencyInjectionCourse\\DependencyInjectionCourse\\ConstructorInjection.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

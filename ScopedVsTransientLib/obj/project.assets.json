@@ -22,32 +22,6 @@
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
         }
-      },
-      "ScopedVsTransientLib/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "5.0.1"
-        },
-        "compile": {
-          "bin/placeholder/ScopedVsTransientLib.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ScopedVsTransientLib.dll": {}
-        }
-      },
-      "ServiceCollectionInjection/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "5.0.1"
-        },
-        "compile": {
-          "bin/placeholder/ServiceCollectionInjection.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ServiceCollectionInjection.dll": {}
-        }
       }
     }
   },
@@ -95,23 +69,11 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
-    },
-    "ScopedVsTransientLib/1.0.0": {
-      "type": "project",
-      "path": "../ScopedVsTransientLib/ScopedVsTransientLib.csproj",
-      "msbuildProject": "../ScopedVsTransientLib/ScopedVsTransientLib.csproj"
-    },
-    "ServiceCollectionInjection/1.0.0": {
-      "type": "project",
-      "path": "../ServiceCollectionInjection/ServiceCollectionInjection.csproj",
-      "msbuildProject": "../ServiceCollectionInjection/ServiceCollectionInjection.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Microsoft.Extensions.DependencyInjection >= 5.0.1",
-      "ScopedVsTransientLib >= 1.0.0",
-      "ServiceCollectionInjection >= 1.0.0"
+      "Microsoft.Extensions.DependencyInjection >= 5.0.1"
     ]
   },
   "packageFolders": {
@@ -122,11 +84,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eoinf\\OneDrive\\Desktop\\C# Project Work\\Repos\\DependencyInjectionCourse\\Coupling\\Driver.csproj",
-      "projectName": "Driver",
-      "projectPath": "C:\\Users\\eoinf\\OneDrive\\Desktop\\C# Project Work\\Repos\\DependencyInjectionCourse\\Coupling\\Driver.csproj",
+      "projectUniqueName": "C:\\Users\\eoinf\\OneDrive\\Desktop\\C# Project Work\\Repos\\DependencyInjectionCourse\\ScopedVsTransientLib\\ScopedVsTransientLib.csproj",
+      "projectName": "ScopedVsTransientLib",
+      "projectPath": "C:\\Users\\eoinf\\OneDrive\\Desktop\\C# Project Work\\Repos\\DependencyInjectionCourse\\ScopedVsTransientLib\\ScopedVsTransientLib.csproj",
       "packagesPath": "C:\\Users\\eoinf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eoinf\\OneDrive\\Desktop\\C# Project Work\\Repos\\DependencyInjectionCourse\\Coupling\\obj\\",
+      "outputPath": "C:\\Users\\eoinf\\OneDrive\\Desktop\\C# Project Work\\Repos\\DependencyInjectionCourse\\ScopedVsTransientLib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -148,14 +110,7 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {
-            "C:\\Users\\eoinf\\OneDrive\\Desktop\\C# Project Work\\Repos\\DependencyInjectionCourse\\ScopedVsTransientLib\\ScopedVsTransientLib.csproj": {
-              "projectPath": "C:\\Users\\eoinf\\OneDrive\\Desktop\\C# Project Work\\Repos\\DependencyInjectionCourse\\ScopedVsTransientLib\\ScopedVsTransientLib.csproj"
-            },
-            "C:\\Users\\eoinf\\OneDrive\\Desktop\\C# Project Work\\Repos\\DependencyInjectionCourse\\ServiceCollectionInjection\\ServiceCollectionInjection.csproj": {
-              "projectPath": "C:\\Users\\eoinf\\OneDrive\\Desktop\\C# Project Work\\Repos\\DependencyInjectionCourse\\ServiceCollectionInjection\\ServiceCollectionInjection.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

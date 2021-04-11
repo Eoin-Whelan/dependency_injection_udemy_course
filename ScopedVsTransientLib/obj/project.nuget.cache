@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ourB3SKH6sn6CC45kUU5tlTqH+SWAuHKmeoFKqDPhOmvdqSkHIQMCNlf65rlqnUdNIzcUXkUt2pUuPhk8kZ4ig==",
+  "dgSpecHash": "dm/K0TV+2FOkbbA7dWGngBPNQHy4BNONndHKK/VE+tbsk+Gy1XKPnQpW5MwK5czdjLQQbRbh8Gbm65Wc2HQpgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eoinf\\OneDrive\\Desktop\\C# Project Work\\Repos\\DependencyInjectionCourse\\Coupling\\Driver.csproj",
+  "projectFilePath": "C:\\Users\\eoinf\\OneDrive\\Desktop\\C# Project Work\\Repos\\DependencyInjectionCourse\\ScopedVsTransientLib\\ScopedVsTransientLib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eoinf\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
     "C:\\Users\\eoinf\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"

@@ -3,9 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjectionCourse", "DependencyInjectionCourse\DependencyInjectionCourse.csproj", "{1FD4D7C0-E07B-4011-8D49-8371CAF9A564}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructorInjection", "DependencyInjectionCourse\ConstructorInjection.csproj", "{1FD4D7C0-E07B-4011-8D49-8371CAF9A564}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coupling", "Coupling\Coupling.csproj", "{6A102966-5F22-4617-BB5A-CEF464132124}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Driver", "Coupling\Driver.csproj", "{6A102966-5F22-4617-BB5A-CEF464132124}"
+	ProjectSection(ProjectDependencies) = postProject
+		{627F0D95-E5A2-4568-B5FA-4A7243E40580} = {627F0D95-E5A2-4568-B5FA-4A7243E40580}
+		{1FD4D7C0-E07B-4011-8D49-8371CAF9A564} = {1FD4D7C0-E07B-4011-8D49-8371CAF9A564}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceCollectionInjection", "ServiceCollectionInjection\ServiceCollectionInjection.csproj", "{607877DE-BC44-447C-888D-D3F03827A9EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScopedVsTransientLib", "ScopedVsTransientLib\ScopedVsTransientLib.csproj", "{627F0D95-E5A2-4568-B5FA-4A7243E40580}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +29,14 @@ Global
 		{6A102966-5F22-4617-BB5A-CEF464132124}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A102966-5F22-4617-BB5A-CEF464132124}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A102966-5F22-4617-BB5A-CEF464132124}.Release|Any CPU.Build.0 = Release|Any CPU
+		{607877DE-BC44-447C-888D-D3F03827A9EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{607877DE-BC44-447C-888D-D3F03827A9EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{607877DE-BC44-447C-888D-D3F03827A9EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{607877DE-BC44-447C-888D-D3F03827A9EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{627F0D95-E5A2-4568-B5FA-4A7243E40580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{627F0D95-E5A2-4568-B5FA-4A7243E40580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{627F0D95-E5A2-4568-B5FA-4A7243E40580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{627F0D95-E5A2-4568-B5FA-4A7243E40580}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
