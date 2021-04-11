@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjectionCourse", "DependencyInjectionCourse\DependencyInjectionCourse.csproj", "{1FD4D7C0-E07B-4011-8D49-8371CAF9A564}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coupling", "Coupling\Coupling.csproj", "{6A102966-5F22-4617-BB5A-CEF464132124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FD4D7C0-E07B-4011-8D49-8371CAF9A564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD4D7C0-E07B-4011-8D49-8371CAF9A564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD4D7C0-E07B-4011-8D49-8371CAF9A564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD4D7C0-E07B-4011-8D49-8371CAF9A564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A102966-5F22-4617-BB5A-CEF464132124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A102966-5F22-4617-BB5A-CEF464132124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A102966-5F22-4617-BB5A-CEF464132124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A102966-5F22-4617-BB5A-CEF464132124}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6885A607-2CE3-45F0-AB9A-C5D3D082BA8F}
+	EndGlobalSection
+EndGlobal
